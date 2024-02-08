@@ -2,9 +2,20 @@
 layout: "index"
 title: "Home"
 description: "Introduction to the website of the MCEA"
+heroTitle: "MCEA"
+icon: "fas fa-angle-double-down"
+imageUrl: "https://source.unsplash.com/dGxOgeXAXm8"
 ---
-![hero image](assets/images/coffee.png)
+MCEA (Mid Cotswold Evangelical Alliance) draws together ministers and leaders of churches and Christian ministries in north Gloucestershire. Our focus is towards unity and the extension of Christ's Kingdom in our area.
 
-# My MCEA Eleventy Site
+Our foundational aims are:
 
-MCEA site   made with [Eleventy](https://www.11ty.io/)
+- To work for the extension of Christ’s Kingdom in the area.
+- To be a visible expression of the unity, which God has given us in Christ to Christians of all denominations.
+- To provide an opportunity for prayer, information exchange and encouragement.
+
+Our gatherings are an opportunity to:
+
+- build your connections
+- establish new relationships
+- explore possible partnerships

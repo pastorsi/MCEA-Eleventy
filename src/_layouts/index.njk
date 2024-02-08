@@ -2,11 +2,24 @@
 layout: "base"
 ---
 
-<section class="section">
+<section class="section p-0">
     <div class="content">
+        <section class="hero is-dark is-fullheight" style="background-image: url('{{ imageUrl | safe }}'); background-repeat: no-repeat; background-position: 50% 0%; background-size: cover;">
+            <div class="hero-body">
+                <div class="container has-text-left">
+                    <h1 class="title has-text-warning">{{ heroTitle }}</h1>
+                </div>
+            </div>
+            <div class="hero-foot has-text-centered" style="padding-bottom: 5em">
+                <span class="icon is-large has-text-warning box">
+                    <i class="{{ icon }} is-size-3"></i>
+                </span>
+            </div>
+        </section>
         <div class="columns">
             <div class="column"></div>
             <div class="column is-two-thirds">
+                <h1 class="title has-text-info mt-5 is-size-2">{{ heroTitle }}</h1>
                 {{ content | safe }}
                 {% include "partials/post-grid.njk" %}
             </div>
