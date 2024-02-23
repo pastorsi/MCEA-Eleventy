@@ -6,6 +6,16 @@ const W3F_API_KEY = process.env.W3F_API_KEY;
 const fs = require("fs");
 const NOT_FOUND_PATH = "_site/404.html";
 const { exec } = require('child_process');
+// For plugin markdown-it-image-figures
+let markdownIt = require("markdown-it");
+let options = {
+    // whatever options you have set for the library here
+  };
+let mdfigcaption = require('markdown-it-image-figures');
+let figoptions = {
+    figcaption: true
+};
+const mdLib = markdownIt(options).use(mdfigcaption, figoptions);
 
 module.exports = function(eleventyConfig){
 
@@ -15,14 +25,13 @@ module.exports = function(eleventyConfig){
   eleventyConfig.addPassthroughCopy('_data');
   // Official plugins
 	eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.setLibrary("md", mdLib);
   // .env
   eleventyConfig.addGlobalData('env', process.env);
-// PageFind
-
+  // PageFind
   eleventyConfig.on('eleventy.after', async () => {
     // Add a delay (e.g., 2 seconds) before running Pagefind
     await delay(2000);
-
     try {
       await execCommand('npx pagefind --site _site --output-subdir pagefind --glob "**/*.html"');
     } catch (error) {

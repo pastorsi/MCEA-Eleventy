@@ -14,4 +14,4 @@ CaBiC is an interdenominational charity being set up to support and coordinate m
 
 CaBiC is a registered Charitable Incorporated Organisation (1183787)
 
-![Attentive, older lady](/assets/images/anna-chaplaincy-elderly-lady.jpg)
+![Attentive, older lady](/assets/images/anna-chaplaincy-elderly-lady.jpg "CaBiC coordinates ministry to older people in Cheltenham and Bishop's Cleeve")
