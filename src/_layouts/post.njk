@@ -11,9 +11,10 @@ layout: "base"
                 <p class="subtitle is-6">
                     Published on: <time datetime="{{ page.date }}">{{ page.date | readableDate }}</time>
                 </p>
-                <figure class="image">
-                    <img src="{{ image | safe }}" alt="{{ imageAlt }}" style="height:{{ imageHeight }}; width:{{ imageWidth }}">
-                </figure>
+                {% include "partials/page-image.njk" %}
+                {% if title == "Cambray Baptist Church" %}
+                {% include "partials/cambray-vision.njk" %}
+                {% endif %}
                 {{ content | safe }}
             </div>
             <div class="column"></div>
