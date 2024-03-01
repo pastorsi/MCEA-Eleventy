@@ -15,7 +15,9 @@ Cambray is an evangelical Baptist Church in the heart of Cheltenham.  We have ar
 
 # Ministry Staff
 **Lead Pastor:** Alwyn Barry
+
 **Associate Pastor:** Tim Martin
+
 **Youth Worker:** Shany Scorzone
 
 # Services:
@@ -31,7 +33,7 @@ We are seeking to engage with the community around our town centre location and 
 
 Full details of all these are available on our website: [Cambray.org](https://www.cambray.org/)
 
-![Church staff](/assets/images/cambray-ministry-team.jpg)
+![Church staff](/assets/images/cambray-ministry-team.jpg "Church ministry staff")
 
 # Contact Us
 **Address:** Cambray Baptist Church, Cambray Place, Cheltenham, GL50 1JS

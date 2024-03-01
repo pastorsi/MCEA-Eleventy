@@ -1,16 +1,28 @@
 ---
 layout: "page"
-title: "About"
-description: "Information about the role of MCEA in the local Christian community"
+title: "About Us"
+description: "MCEA draws together local evangelical churches, ministries and individual Christians."
 ---
 
-## Introduction
+Churches and Christian ministries in Cheltenham, Winchcombe and Tewkesbury are particularly well represented within Mid Cotswold Evangelical Alliance (MCEA). A welcome is extended to others in Gloucestershire and neighbouring counties.
+Mid Cotswold Evangelical Alliance (MCEA) draws together local evangelical churches, ministries and individual Christians for the purpose of:
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem error numquam reiciendis blanditiis ea! Molestias iste beatae rerum id. Doloribus, aliquid enim? Veniam soluta fuga incidunt. Consequatur, eum voluptatem? Corrupti, minus maxime! Expedita tempore molestiae ipsum iste ipsam voluptate nulla illo eius perferendis deleniti, aperiam nemo quibusdam dolor nisi vitae? Voluptatibus fuga, qui voluptas dolor impedit nobis repudiandae modi, possimus delectus assumenda fugiat. Deleniti laborum suscipit voluptate reprehenderit quia ipsa quibusdam corrupti debitis impedit nihil eligendi quos aspernatur veniam ipsam, minima delectus dolorem perspiciatis nulla magni. Repellendus at, hic laboriosam explicabo facilis ab, cum voluptas blanditiis dolore, natus et quos.
-## Development
+* Networking
+* Unity
+* Prayer
 
-Eius eum voluptatum mollitia dolor nisi debitis obcaecati deleniti aperiam reprehenderit nulla eos, excepturi itaque inventore, a perspiciatis nobis voluptates dignissimos quod amet saepe veritatis odio aliquam. Tenetur, vitae beatae magni quaerat maiores, in corrupti veniam sapiente illum non voluptatibus omnis similique est dignissimos sit asperiores accusantium dolor possimus illo, eveniet expedita obcaecati iste facere facilis. Possimus veniam repellat ex ab quod praesentium fuga ea voluptatem ipsum, aspernatur laudantium nihil incidunt nemo aut asperiores cupiditate, provident libero facilis nostrum sed cum quos alias dolores! Eos, libero! Odio autem sit molestias voluptatibus laboriosam, reprehenderit sapiente incidunt corporis, minus deserunt, architecto maxime.
+Mid Cotswold Evangelical Alliance (MCEA) comes under the umbrella of the Evangelical Alliance UK. We have an affinity with the unity for transformation movements in UK as represented by Gather.
 
-Aliquam, doloremque? Similique, nihil voluptate beatae asperiores fugiat quibusdam. Dolorem quibusdam esse accusamus repellendus officia vitae nobis aliquid facilis officiis et autem incidunt, nihil perferendis eaque beatae ad, saepe debitis exercitationem possimus rerum quidem. Veritatis explicabo possimus quisquam labore velit dolore saepe, suscipit cumque fugit voluptatum nam modi soluta. Ducimus voluptatum quisquam ad ipsa sunt consequuntur. Aperiam, ea ipsum pariatur neque sapiente animi earum voluptatibus, voluptate ratione impedit odit quia. Voluptas veniam blanditiis quod delectus totam nemo corporis, itaque laborum quasi fuga necessitatibus doloribus. Harum tenetur consequatur repellat eos incidunt cum ab sit et debitis, maxime consectetur hic? Aliquid, sint.
+Since 1992 MCEA has been highly effective in bringing together evangelical church ministers and directors of Christian ministries. MCEA consistently attracts 15-25 representatives every two months to meetings which are either coffee meetings or lunch meetings. Everyone involved views it as a valuable means of encouragement for busy people building local church and local ministry.
 
-Dolore alias omnis recusandae ipsum enim corporis ad distinctio quos, voluptas incidunt vitae nulla dolor aliquid architecto nemo ex quibusdam a. Laboriosam cumque corporis ut porro sunt a labore illum? Reiciendis minus assumenda nemo aspernatur suscipit iste, non ut. Autem, eum! Quae itaque sequi ab nihil dignissimos ut et inventore mollitia temporibus ipsam ea earum nam rem animi harum ad minima ex cumque fuga fugiat placeat libero, facere culpa explicabo. Exercitationem doloribus temporibus laboriosam dolores ut culpa vitae at, adipisci repellat incidunt odit repellendus suscipit, dicta, modi nisi ratione ducimus harum deleniti provident porro cupiditate iure rem aperiam? Nulla, accusamus.
+Invites to the bi-monthly MCEA meetings go out to representatives of the member churches and ministries. If you would like to receive an invite please contact the secretary.
+
+# About this website
+
+This site is designed as a communications hub for Christian ministries and churches who are represented at MCEA bi-monthly meetings. These churches and ministries have a feature page to communicate their character, vision and team information. Alongside this, they can post news and announcements of events.
+
+It is envisioned that leadership teams will be able to use this site to conveniently find out the latest information about who else is in their area or to discover what outreach and ministry is currently being carried out. It's a know-your-neighbour, see-the-latest-news opportunity.
+
+The aim is for churches to be able to better present their profile within the local Christian community of churches and for ministries to be able to better cement their current connections with their local church support base. 
+
+(*This is a mobile first site. In addition, on a mobile you can install it from your browser on your home screen.*)
