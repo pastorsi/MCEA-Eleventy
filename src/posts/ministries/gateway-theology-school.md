@@ -2,7 +2,7 @@
 title: "GTS"
 author: "Daniel Button"
 description: "GTS is a ministry to churches and individuals, providing a forum for Christians to engage more deeply with biblical, theological and contemporary issues."
-date: "2024-03-11"
+date: "2021-01-20"
 image: "/assets/images/gateway-theology-school-study.jpg"
 imageAlt: "Study center"
 imageHeight: "1467"

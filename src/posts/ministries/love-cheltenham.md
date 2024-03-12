@@ -2,7 +2,7 @@
 title: "Love Cheltenham"
 author: "Dave Wellington"
 description: "An informal grouping of churches from across the historic denominations and newer church networks."
-date: "2024-03-12"
+date: "2020-12-04"
 image: "/assets/images/love-cheltenham-badge.jpg"
 imageAlt: "Logo"
 imageHeight: "658"

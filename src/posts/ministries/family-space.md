@@ -2,7 +2,7 @@
 title: "Family Space"
 author: "Josh Denley"
 description: "Working across Cheltenham to be 'Good news in the community'. Find out more about what that means."
-date: "2024-03-11"
+date: "2021-05-13"
 image: "/assets/images/family-space-holding-hands.png"
 imageAlt: "Stay and play sessions for parents and children"
 imageHeight: "300"

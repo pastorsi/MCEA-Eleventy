@@ -2,7 +2,7 @@
 title: "YMCA Cheltenham"
 author: "Jo Smith-Wood"
 description: "Meeting the needs of young people and the wider community in Cheltenham and Gloucester."
-date: "2024-03-02"
+date: "2021-04-26"
 image: "/assets/images/YMCA-Cheltenham-vision.jpg"
 imageAlt: "Share our vision"
 imageHeight: "784"

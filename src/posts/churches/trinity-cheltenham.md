@@ -2,7 +2,7 @@
 title: "Trinity Church"
 author: "Rosie Burgess"
 description: "Welcome to Trinity Cheltenham. We’re a vibrant, Anglican church situated at the heart of Cheltenham town centre, with a passion and a vision to make committed followers of Jesus."
-date: "2023-09-14"
+date: "2021-05-17"
 image: "/assets/images/trinity-cheltenham.png"
 imageAlt: "Inside Trinity Church"
 imageHeight: "265"

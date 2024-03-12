@@ -2,7 +2,7 @@
 title: "Feed Cheltenham"
 author: "Sarah Avery"
 description: "How the churches, schools, charities and organisation and people of Cheltenham made a difference"
-date: "2024-03-11"
+date: "2021-03-05"
 image: "/assets/images/feed-cheltenham-diagram.png"
 imageAlt: "Diagram representation of how it works"
 imageHeight: "1177"

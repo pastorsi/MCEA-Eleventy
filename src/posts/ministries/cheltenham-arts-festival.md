@@ -2,7 +2,7 @@
 title: "Christian Arts Festival"
 author: "Nikki Seville"
 description: "I have witnessed a wonderful showcase where creative artists share their faith through many expressions such as song, visual art, drama and storytelling. - Bishop Rachel, Patron."
-date: "2024-03-12"
+date: "2020-11-26"
 image: "/assets/images/cheltenham-arts-festival-collage.jpg"
 imageAlt: "Arts Festival Collage"
 imageHeight: "794"

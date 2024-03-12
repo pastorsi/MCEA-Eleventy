@@ -2,7 +2,7 @@
 title: "TalkThrough"
 author: "Nathan Jones"
 description: "Introducing TalkThrough a ministry that seeks to equip youth workers, parents, churches and schools to be the help young people need."
-date: "2024-03-12"
+date: "2021-01-06"
 image: "/assets/images/talkthrough-equipping.jpg"
 imageAlt: "Equipping workers"
 imageHeight: "200"

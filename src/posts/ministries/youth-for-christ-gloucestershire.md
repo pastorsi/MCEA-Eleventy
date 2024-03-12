@@ -2,7 +2,7 @@
 title: "Youth for Christ Gloucestershire"
 author: "Paul Bennett"
 description: "Find out how Youth for Christ Gloucestershire are seeing young people's lives changed by Jesus."
-date: "2024-03-11"
+date: "2021-01-27"
 image: "/assets/images/youth-for-christ-underpass.png"
 imageAlt: "Lives changed by Jesus"
 imageHeight: "182"

@@ -2,7 +2,7 @@
 title: "Anna Chaplaincy"
 author: "Brian Dunlop"
 description: "Cheltenham and Bishop's Cleeve Anna Chaplaincy for older people"
-date: "2023-09-22"
+date: "2020-11-12"
 image: "/assets/images/anna-chaplaincy.jpg"
 imageAlt: "Delivering pastoral outreach to older people in Cheltenham and Bishop's Cleeve"
 imageHeight: "401"

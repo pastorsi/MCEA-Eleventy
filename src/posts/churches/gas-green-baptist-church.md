@@ -2,7 +2,7 @@
 title: "Gas Green Baptist Church"
 author: "Debbie Lake"
 description: "We are a family of Christian people worshipping together in the St Peters area of Cheltenham."
-date: "2024-03-04"
+date: "2021-09-29"
 image: "/assets/images/gas-green-baptist-church.png"
 imageAlt: "The front of our building"
 imageWidth: "1000"

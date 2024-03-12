@@ -2,7 +2,7 @@
 title: "Cheltenham Pray for Schools Network"
 author: "Val Ralston"
 description: "Every school… a prayed for school!"
-date: "2024-03-12"
+date: "2020-11-26"
 image: "/assets/images/cheltenham-prayer-for-schools-gathering.png"
 imageAlt: "Gathered for prayer"
 imageHeight: "400"
@@ -12,6 +12,7 @@ imageWidth: "400"
 ![CPFSN banner](/assets/images/cheltenham-prayer-for-schools-logo.png "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things... And the God of peace will be with you. Philippians 4:9 (NIV)")
 
 # The Vision
+
 Every school … a prayed for school!
 
 CPFSN is God’s vision which He has enabled to come into being and to flourish for the past 20 years

@@ -2,7 +2,7 @@
 title: "Cambray Baptist Church"
 author: "Alwyn Barry"
 description: "Cambray is an evangelical Baptist church in the heart of Cheltenham.  Around 300 attend our main worship service and we have a vibrant programme of events and ministries for children, young people, 20s & 30s, students, women, men, and older folk."
-date: "2023-09-15"
+date: "2020-12-10"
 image: "/assets/images/outside-baptist-church.jpg"
 imageAlt: "Outside the Baptist Church"
 imageWidth: "1024"

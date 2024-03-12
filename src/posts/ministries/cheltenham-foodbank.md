@@ -2,7 +2,7 @@
 title: "Cheltenham Foodbank"
 author: "Dave Wellington"
 description: "Cheltenham Foodbank exists as a support to agencies, charities and churches, in order to give a person in need an emergency 3-day food supply"
-date: "2024-03-11"
+date: "2020-12-04"
 image: "/assets/images/cheltenham-foodbank-logo.jpg"
 imageAlt: "Our logo image"
 imageHeight: "200"
