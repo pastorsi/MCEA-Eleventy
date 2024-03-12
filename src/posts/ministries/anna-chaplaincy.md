@@ -45,6 +45,5 @@ Anna Chaplains are here to help older people hold fast to the good things of lif
 
 **For further information please contact Brian Dunlop via email or telephone:**
 
-[Email us](mailto:info@cabic.co.uk), or contact by phone: +44 1242 580731
-
+[Email us](mailto:info@cabic.co.uk), or contact by phone: +44 1242 580731  
 Please visit [our website](https://www.cabic.co.uk) 

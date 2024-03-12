@@ -1,5 +1,6 @@
 ---
 title: "Salem Baptist Church"
+author: "Helen Marcia Alderton"
 description: "Salem Baptist Church, committed to creating missionary disciples who love God, love each other and love God's world."
 date: "2024-03-04"
 image: "/assets/images/salem-baptist-church-front.jpg"

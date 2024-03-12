@@ -1,5 +1,6 @@
 ---
 title: "Trinity Church"
+author: "Rosie Burgess"
 description: "Welcome to Trinity Cheltenham. We’re a vibrant, Anglican church situated at the heart of Cheltenham town centre, with a passion and a vision to make committed followers of Jesus."
 date: "2023-09-14"
 image: "/assets/images/trinity-cheltenham.png"
@@ -42,7 +43,6 @@ These groups meet mostly in homes across Cheltenham and surrounding areas on wee
 
 For more info go to [Life Groups](https://trinitycheltenham.com/life-groups/)
 
-Discover the Team
+## Discover the Team
 
-You can find out who is on our team of staff and volunteers please visit our website.
-Follow this link: [Meet the Team](https://trinitycheltenham.com/meet-the-team/)
+You can find out who is on our team of staff and volunteers please visit our website by following this link: [Meet the Team](https://trinitycheltenham.com/meet-the-team/)

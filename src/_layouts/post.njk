@@ -9,7 +9,7 @@ layout: "base"
             <div class="column is-two-thirds">
                 <h1 class="title has-text-info">{{ title }}</h1>
                 <p class="subtitle is-6">
-                    Published on: <time datetime="{{ page.date }}">{{ page.date | readableDate }}</time>
+                    Author: {{ author }}
                 </p>
                 {% include "partials/page-image.njk" %}
                 {% if title == "Cambray Baptist Church" %}

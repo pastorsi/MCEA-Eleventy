@@ -1,5 +1,6 @@
 ---
 title: "C3 Church Cheltenham"
+author: "Sally Parsley"
 description: "We are a group of ordinary people of all ages and walks of life joined together by a common belief in the gospel of Jesus Christ.
 We love the church, we love vibrant worship, great teaching, good friends, strong families and the communities we live in."
 date: "2024-03-01"

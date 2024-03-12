@@ -1,5 +1,6 @@
 ---
 title: "Leckhampton Baptist Church"
+author: "Ben Fry"
 description: "Discover Leckhampton Baptist Church! Located in Leckhampton, Cheltenham, it is home to a welcoming community of believers."
 date: "2024-03-04"
 image: "/assets/images/leckhampton-baptist-church-front.jpg"

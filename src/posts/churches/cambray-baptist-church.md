@@ -1,5 +1,6 @@
 ---
 title: "Cambray Baptist Church"
+author: "Alwyn Barry"
 description: "Cambray is an evangelical Baptist church in the heart of Cheltenham.  Around 300 attend our main worship service and we have a vibrant programme of events and ministries for children, young people, 20s & 30s, students, women, men, and older folk."
 date: "2023-09-15"
 image: "/assets/images/outside-baptist-church.jpg"
@@ -14,10 +15,8 @@ imageWidth: "1024"
 Cambray is an evangelical Baptist Church in the heart of Cheltenham.  We have around 300 attending our main worship service and a vibrant programme of ministries for all ages.  There are specialist ministries for children, young people, 20s & 30s, students, women and men, and older folk. We have a full programme of activities, and outreach events throughout the year.
 
 # Ministry Staff
-**Lead Pastor:** Alwyn Barry
-
-**Associate Pastor:** Tim Martin
-
+**Lead Pastor:** Alwyn Barry  
+**Associate Pastor:** Tim Martin  
 **Youth Worker:** Shany Scorzone
 
 # Services:

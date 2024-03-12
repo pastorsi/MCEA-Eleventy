@@ -1,5 +1,6 @@
 ---
 title: "Cheltenham Street Pastors"
+author: "Sally Parsley"
 description: "We are inter-denominational church members who are willing to offer support, practical help and a visible ministry to those who are out in the town late at night."
 date: "2023-09-22"
 image: "/assets/images/Street-Pastors.jpg"
