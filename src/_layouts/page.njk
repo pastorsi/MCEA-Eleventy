@@ -15,6 +15,12 @@ layout: "base"
                 {% if title == "Ministries" %}
                 {% include "partials/ministry-grid.njk" %}
                 {% endif %}
+                {% if title == "News" %}
+                {% include "partials/news-grid.njk" %}
+                {% endif %}
+                {% if title == "Events" %}
+                {% include "partials/events-grid.njk" %}
+                {% endif %}
                 {% if title == "Contact" %}
                 {% include "partials/contactForm.njk" %}
                 {% endif %}

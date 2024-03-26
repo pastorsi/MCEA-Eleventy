@@ -1,0 +1,9 @@
+<section class="section">
+    <div class="container">
+        <div class="columns is-multiline is-mobile mt-5 is-8 is-centered">
+                {% for news in collections.news %}
+                    {% include "partials/news-card.njk" %}
+                {% endfor %}
+        </div>
+    </div>
+</section>
