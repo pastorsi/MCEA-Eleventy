@@ -6,6 +6,7 @@ date: "2020-12-10"
 image: "/assets/images/outside-baptist-church.jpg"
 imageAlt: "Outside the Baptist Church"
 imageWidth: "1024"
+imageHeight: "576"
 ---
 
 ![Church home group](/assets/images/cambray-home-group.jpg "One of Cambray's vibrant home groups")
