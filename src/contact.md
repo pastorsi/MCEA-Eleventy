@@ -7,4 +7,4 @@ eleventyExcludeFromCollections: true
 
 ## Contact Form
 
-Your enquiry is welcome.
+Your enquiry is welcome. Note: when you "send" no immediate feedback is given. We do get your message though.
