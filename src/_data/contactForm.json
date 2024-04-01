@@ -35,6 +35,11 @@
       {
         "type": "hidden",
         "name": "access_key"
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "value": "https://web3forms.com/success"
       }
     ],
     "recaptcha": {
