@@ -127,5 +127,3 @@ eleventyConfig.setBrowserSyncConfig({
     markdownTemplateEngine: "njk"
   }
 };
-
-  
