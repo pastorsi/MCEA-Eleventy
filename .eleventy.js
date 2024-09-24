@@ -7,8 +7,6 @@ require('dotenv').config();
 const W3F_API_KEY = process.env.W3F_API_KEY;
 const NOT_FOUND_PATH = "_site/404.html";
 const { exec } = require('child_process');
-const nunjucks = require('nunjucks');
-
 // For plugin markdown-it-image-figures
 let markdownIt = require("markdown-it");
 let options = {
@@ -32,10 +30,6 @@ module.exports = function(eleventyConfig){
   // Official plugins
 	eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.setLibrary("md", mdLib);
-  // Add the json filter
-  eleventyConfig.addNunjucksFilter('json', function(value) {
-    return JSON.stringify(value);
-  });
   // .env
   eleventyConfig.addGlobalData('env', process.env);
   // PageFind

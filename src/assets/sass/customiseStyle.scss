@@ -36,31 +36,3 @@ $card-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.31), 0 0px 0 1px rgba(10, 
 
 // Import Bulma styles
 @import "../../../mybulma/bulma.sass";
-
-// CSS to style the modal which provides success/error feedback when submitting contact form
-.modal {
-    &.is-hidden {
-      opacity: 0;
-      pointer-events: none;
-    }
-  
-    &.is-active {
-      opacity: 1;
-      pointer-events: auto;
-    }
-  
-    .modal-background {
-      background-color: rgba(0, 0, 0, 0.4);
-    }
-  
-    .modal-content {
-      max-height: 600px;
-      overflow-y: auto;
-    }
-  
-    .box {
-      padding: 2rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    }
-  }
