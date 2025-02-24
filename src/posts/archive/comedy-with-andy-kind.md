@@ -2,7 +2,7 @@
 title: "Comedy with Andy Kind!"
 author: "Sarah Chad"
 description: "An evening of comedy with well-known Spring Harvest comedian Andy Kind"
-date: "2024-09-11"
+date: "2024-08-11"
 image: "/assets/images/comedian_andy_kind.jpg"
 imageAlt: "Comedian Andy Kind"
 imageHeight: "1754"
